@@ -3,5 +3,6 @@
   "author": "monthzifang",
   "main": "awa.nobuild.NoBuildBreakPlugin",
   "description": "禁止玩家在服务器内放置和拆除方块。",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "minGameVersion": "160"
 }
